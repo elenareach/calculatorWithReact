@@ -1,0 +1,18 @@
+.Coponent-Display {
+  float: left;
+  height: 153px;
+  background-color: rgb(133, 134, 148);
+  color: white;
+  border: none;
+  font-size: 54px;
+  padding: 0px;
+  text-align: right;
+
+  width: 95% !important;
+  }
+  
+  .Coponent-Display > div {
+    font-size: 2.5rem;
+    padding: 0.2rem 0.7rem 0.1rem 0.5rem;
+    
+  }

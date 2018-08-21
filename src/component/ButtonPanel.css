@@ -1,0 +1,20 @@
+.Coponent-ButtonPanel {
+  float: left;
+  background: transparent;
+  border: none;
+  font-size: 54px;
+  padding: 0 12px;
+  text-align: right;
+  color: #ADADB3;
+  direction: ltr;
+  }
+  
+  .Coponent-ButtonPanel > div {
+    margin-bottom: 1px;
+    flex: 1 0 auto;
+    display: flex;
+  }
+  .long {
+    width: 192px;
+  }
+  
